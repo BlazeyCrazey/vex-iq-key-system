@@ -1,2 +1,2 @@
-# vex-iq-key-system
-A key system for vex iq
+# Vex IQ Key System
+A key system for vex gen 2 brains
